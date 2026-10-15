@@ -1,5 +1,6 @@
 [
  {
+  "src": "./guide/ai.md",
   "void": "/guide/ai",
   "route": "/docs/build/ai",
   "sec": "build",
@@ -7,6 +8,7 @@
   "title": "AI"
  },
  {
+  "src": "./guide/app-types.md",
   "void": "/guide/app-types",
   "route": "/docs/build/app-types",
   "sec": "build",
@@ -14,6 +16,7 @@
   "title": "Supported App Types"
  },
  {
+  "src": "./guide/auth.md",
   "void": "/guide/auth",
   "route": "/docs/build/auth",
   "sec": "build",
@@ -21,6 +24,7 @@
   "title": "Authentication"
  },
  {
+  "src": "./guide/database.md",
   "void": "/guide/database",
   "route": "/docs/build/database",
   "sec": "build",
@@ -28,6 +32,7 @@
   "title": "Database"
  },
  {
+  "src": "./guide/database/d1.md",
   "void": "/guide/database/d1",
   "route": "/docs/build/database/d1",
   "sec": "build",
@@ -35,6 +40,7 @@
   "title": "D1 (SQLite)"
  },
  {
+  "src": "./guide/database/mysql.md",
   "void": "/guide/database/mysql",
   "route": "/docs/build/database/mysql",
   "sec": "build",
@@ -42,6 +48,7 @@
   "title": "MySQL"
  },
  {
+  "src": "./guide/database/postgresql.md",
   "void": "/guide/database/postgresql",
   "route": "/docs/build/database/postgresql",
   "sec": "build",
@@ -49,6 +56,7 @@
   "title": "PostgreSQL"
  },
  {
+  "src": "./guide/deployment.md",
   "void": "/guide/deployment",
   "route": "/docs/build/deployment",
   "sec": "build",
@@ -56,6 +64,7 @@
   "title": "Deployment"
  },
  {
+  "src": "./guide/durable-state.md",
   "void": "/guide/durable-state",
   "route": "/docs/build/durable-state",
   "sec": "build",
@@ -63,6 +72,7 @@
   "title": "Durable State"
  },
  {
+  "src": "./guide/edge/headers.md",
   "void": "/guide/edge/headers",
   "route": "/docs/build/edge/headers",
   "sec": "build",
@@ -70,6 +80,7 @@
   "title": "Custom Headers"
  },
  {
+  "src": "./guide/edge/prerendering.md",
   "void": "/guide/edge/prerendering",
   "route": "/docs/build/edge/prerendering",
   "sec": "build",
@@ -77,6 +88,7 @@
   "title": "Edge Prerendering"
  },
  {
+  "src": "./guide/edge/redirects.md",
   "void": "/guide/edge/redirects",
   "route": "/docs/build/edge/redirects",
   "sec": "build",
@@ -84,6 +96,7 @@
   "title": "Redirects"
  },
  {
+  "src": "./guide/edge/revalidation.md",
   "void": "/guide/edge/revalidation",
   "route": "/docs/build/edge/revalidation",
   "sec": "build",
@@ -91,6 +104,7 @@
   "title": "Revalidation (ISR)"
  },
  {
+  "src": "./guide/edge/rewrites.md",
   "void": "/guide/edge/rewrites",
   "route": "/docs/build/edge/rewrites",
   "sec": "build",
@@ -98,6 +112,7 @@
   "title": "Rewrites"
  },
  {
+  "src": "./guide/edge/static-assets.md",
   "void": "/guide/edge/static-assets",
   "route": "/docs/build/edge/static-assets",
   "sec": "build",
@@ -105,6 +120,7 @@
   "title": "Static Assets Caching"
  },
  {
+  "src": "./guide/email.md",
   "void": "/guide/email",
   "route": "/docs/build/email",
   "sec": "build",
@@ -112,6 +128,7 @@
   "title": "Email"
  },
  {
+  "src": "./guide/email/domains.md",
   "void": "/guide/email/domains",
   "route": "/docs/build/email/domains",
   "sec": "build",
@@ -119,6 +136,7 @@
   "title": "Email Domains and Setup"
  },
  {
+  "src": "./guide/email/receiving.md",
   "void": "/guide/email/receiving",
   "route": "/docs/build/email/receiving",
   "sec": "build",
@@ -126,6 +144,7 @@
   "title": "Receiving Email"
  },
  {
+  "src": "./guide/email/sending.md",
   "void": "/guide/email/sending",
   "route": "/docs/build/email/sending",
   "sec": "build",
@@ -133,6 +152,7 @@
   "title": "Sending Email"
  },
  {
+  "src": "./guide/env-vars.md",
   "void": "/guide/env-vars",
   "route": "/docs/build/env-vars",
   "sec": "build",
@@ -140,6 +160,7 @@
   "title": "Environment variables"
  },
  {
+  "src": "./guide/index.md",
   "void": "/guide/",
   "route": "/docs/build/overview",
   "sec": "build",
@@ -147,6 +168,7 @@
   "title": "What is DST?"
  },
  {
+  "src": "./guide/jobs.md",
   "void": "/guide/jobs",
   "route": "/docs/build/jobs",
   "sec": "build",
@@ -154,6 +176,7 @@
   "title": "Cron Jobs"
  },
  {
+  "src": "./guide/kv.md",
   "void": "/guide/kv",
   "route": "/docs/build/kv",
   "sec": "build",
@@ -161,6 +184,7 @@
   "title": "Key-Value Storage"
  },
  {
+  "src": "./guide/live.md",
   "void": "/guide/live",
   "route": "/docs/build/live",
   "sec": "build",
@@ -168,6 +192,7 @@
   "title": "Live Event Streams"
  },
  {
+  "src": "./guide/pages-routing/actions-and-forms.md",
   "void": "/guide/pages-routing/actions-and-forms",
   "route": "/docs/build/pages-routing/actions-and-forms",
   "sec": "build",
@@ -175,6 +200,7 @@
   "title": "Actions & Forms"
  },
  {
+  "src": "./guide/pages-routing/head.md",
   "void": "/guide/pages-routing/head",
   "route": "/docs/build/pages-routing/head",
   "sec": "build",
@@ -182,6 +208,7 @@
   "title": "Head Management"
  },
  {
+  "src": "./guide/pages-routing/islands.md",
   "void": "/guide/pages-routing/islands",
   "route": "/docs/build/pages-routing/islands",
   "sec": "build",
@@ -189,6 +216,7 @@
   "title": "Islands"
  },
  {
+  "src": "./guide/pages-routing/layouts.md",
   "void": "/guide/pages-routing/layouts",
   "route": "/docs/build/pages-routing/layouts",
   "sec": "build",
@@ -196,6 +224,7 @@
   "title": "Layouts & Shared Data"
  },
  {
+  "src": "./guide/pages-routing/loaders.md",
   "void": "/guide/pages-routing/loaders",
   "route": "/docs/build/pages-routing/loaders",
   "sec": "build",
@@ -203,6 +232,7 @@
   "title": "Loaders & Props"
  },
  {
+  "src": "./guide/pages-routing/markdown.md",
   "void": "/guide/pages-routing/markdown",
   "route": "/docs/build/pages-routing/markdown",
   "sec": "build",
@@ -210,6 +240,7 @@
   "title": "Markdown"
  },
  {
+  "src": "./guide/pages-routing/overview.md",
   "void": "/guide/pages-routing/overview",
   "route": "/docs/build/pages-routing/overview",
   "sec": "build",
@@ -217,6 +248,7 @@
   "title": "Pages Routing"
  },
  {
+  "src": "./guide/pages-routing/view-transitions.md",
   "void": "/guide/pages-routing/view-transitions",
   "route": "/docs/build/pages-routing/view-transitions",
   "sec": "build",
@@ -224,6 +256,7 @@
   "title": "View Transitions"
  },
  {
+  "src": "./guide/platform-administration.md",
   "void": "/guide/platform-administration",
   "route": "/docs/control/platform-administration",
   "sec": "control",
@@ -231,6 +264,7 @@
   "title": "Platform Administration"
  },
  {
+  "src": "./guide/platform-development.md",
   "void": "/guide/platform-development",
   "route": "/docs/control/platform-development",
   "sec": "control",
@@ -238,6 +272,7 @@
   "title": "Developing a Control Plane"
  },
  {
+  "src": "./guide/platform/administration/access.md",
   "void": "/guide/platform/administration/access",
   "route": "/docs/control/administration/access",
   "sec": "control",
@@ -245,6 +280,7 @@
   "title": "Sign-in and Access"
  },
  {
+  "src": "./guide/platform/administration/connected-apps.md",
   "void": "/guide/platform/administration/connected-apps",
   "route": "/docs/control/administration/connected-apps",
   "sec": "control",
@@ -252,6 +288,7 @@
   "title": "Connected apps"
  },
  {
+  "src": "./guide/platform/administration/email.md",
   "void": "/guide/platform/administration/email",
   "route": "/docs/control/administration/email",
   "sec": "control",
@@ -259,6 +296,7 @@
   "title": "Email"
  },
  {
+  "src": "./guide/platform/administration/operations.md",
   "void": "/guide/platform/administration/operations",
   "route": "/docs/control/administration/operations",
   "sec": "control",
@@ -266,6 +304,7 @@
   "title": "Operations"
  },
  {
+  "src": "./guide/platform/administration/plans.md",
   "void": "/guide/platform/administration/plans",
   "route": "/docs/control/administration/plans",
   "sec": "control",
@@ -273,6 +312,7 @@
   "title": "Plans and Limits"
  },
  {
+  "src": "./guide/platform/administration/projects.md",
   "void": "/guide/platform/administration/projects",
   "route": "/docs/control/administration/projects",
   "sec": "control",
@@ -280,6 +320,7 @@
   "title": "Users and Projects"
  },
  {
+  "src": "./guide/platform/administration/zero-trust.md",
   "void": "/guide/platform/administration/zero-trust",
   "route": "/docs/control/administration/zero-trust",
   "sec": "control",
@@ -287,6 +328,7 @@
   "title": "Project Zero Trust"
  },
  {
+  "src": "./guide/platform/development/local.md",
   "void": "/guide/platform/development/local",
   "route": "/docs/control/development/local",
   "sec": "control",
@@ -294,6 +336,7 @@
   "title": "Local Development"
  },
  {
+  "src": "./guide/platform/development/runtime.md",
   "void": "/guide/platform/development/runtime",
   "route": "/docs/control/development/runtime",
   "sec": "control",
@@ -301,6 +344,7 @@
   "title": "Runtime and Source Builds"
  },
  {
+  "src": "./guide/platform/development/schema-ci.md",
   "void": "/guide/platform/development/schema-ci",
   "route": "/docs/control/development/schema-ci",
   "sec": "control",
@@ -308,6 +352,7 @@
   "title": "Schema and CI"
  },
  {
+  "src": "./guide/platform/installation/ci.md",
   "void": "/guide/platform/installation/ci",
   "route": "/docs/control/installation/ci",
   "sec": "control",
@@ -315,6 +360,7 @@
   "title": "Install from CI"
  },
  {
+  "src": "./guide/platform/installation/credentials.md",
   "void": "/guide/platform/installation/credentials",
   "route": "/docs/control/installation/credentials",
   "sec": "control",
@@ -322,6 +368,7 @@
   "title": "Credentials"
  },
  {
+  "src": "./guide/platform/installation/domains.md",
   "void": "/guide/platform/installation/domains",
   "route": "/docs/control/installation/domains",
   "sec": "control",
@@ -329,6 +376,7 @@
   "title": "Domains and Resources"
  },
  {
+  "src": "./guide/platform/installation/first-deployment.md",
   "void": "/guide/platform/installation/first-deployment",
   "route": "/docs/control/installation/first-deployment",
   "sec": "control",
@@ -336,6 +384,7 @@
   "title": "First Deployment"
  },
  {
+  "src": "./guide/platform/installation/maintenance.md",
   "void": "/guide/platform/installation/maintenance",
   "route": "/docs/control/installation/maintenance",
   "sec": "control",
@@ -343,6 +392,7 @@
   "title": "Maintenance and Recovery"
  },
  {
+  "src": "./guide/platform/installation/prerequisites.md",
   "void": "/guide/platform/installation/prerequisites",
   "route": "/docs/control/installation/prerequisites",
   "sec": "control",
@@ -350,6 +400,7 @@
   "title": "Prerequisites"
  },
  {
+  "src": "./guide/platform/installation/setup.md",
   "void": "/guide/platform/installation/setup",
   "route": "/docs/control/installation/setup",
   "sec": "control",
@@ -357,6 +408,7 @@
   "title": "Install and Configure Login"
  },
  {
+  "src": "./guide/platform/installation/uninstall.md",
   "void": "/guide/platform/installation/uninstall",
   "route": "/docs/control/installation/uninstall",
   "sec": "control",
@@ -364,6 +416,7 @@
   "title": "Disable and Uninstall"
  },
  {
+  "src": "./guide/project-collaboration.md",
   "void": "/guide/project-collaboration",
   "route": "/docs/build/project-collaboration",
   "sec": "build",
@@ -371,6 +424,7 @@
   "title": "Project Collaboration"
  },
  {
+  "src": "./guide/queues.md",
   "void": "/guide/queues",
   "route": "/docs/build/queues",
   "sec": "build",
@@ -378,6 +432,7 @@
   "title": "Queues"
  },
  {
+  "src": "./guide/quickstart.md",
   "void": "/guide/quickstart",
   "route": "/docs/build/quickstart",
   "sec": "build",
@@ -385,6 +440,7 @@
   "title": "Quickstart"
  },
  {
+  "src": "./guide/remote-dev.md",
   "void": "/guide/remote-dev",
   "route": "/docs/build/remote-dev",
   "sec": "build",
@@ -392,6 +448,7 @@
   "title": "Remote Development"
  },
  {
+  "src": "./guide/sandboxes.md",
   "void": "/guide/sandboxes",
   "route": "/docs/build/sandboxes",
   "sec": "build",
@@ -399,6 +456,7 @@
   "title": "Sandboxes"
  },
  {
+  "src": "./guide/self-hosted-platform.md",
   "void": "/guide/self-hosted-platform",
   "route": "/docs/control/self-hosted-platform",
   "sec": "control",
@@ -406,6 +464,7 @@
   "title": "Install a Control Plane"
  },
  {
+  "src": "./guide/server-routing.md",
   "void": "/guide/server-routing",
   "route": "/docs/build/server-routing",
   "sec": "build",
@@ -413,6 +472,7 @@
   "title": "Server Routing"
  },
  {
+  "src": "./guide/sse.md",
   "void": "/guide/sse",
   "route": "/docs/build/sse",
   "sec": "build",
@@ -420,6 +480,7 @@
   "title": "Server-Sent Events"
  },
  {
+  "src": "./guide/ssg.md",
   "void": "/guide/ssg",
   "route": "/docs/build/ssg",
   "sec": "build",
@@ -427,6 +488,7 @@
   "title": "Static Site Generation (SSG)"
  },
  {
+  "src": "./guide/ssr.md",
   "void": "/guide/ssr",
   "route": "/docs/build/ssr",
   "sec": "build",
@@ -434,6 +496,7 @@
   "title": "Custom SSR"
  },
  {
+  "src": "./guide/storage.md",
   "void": "/guide/storage",
   "route": "/docs/build/storage",
   "sec": "build",
@@ -441,6 +504,7 @@
   "title": "Object Storage"
  },
  {
+  "src": "./guide/type-safety.md",
   "void": "/guide/type-safety",
   "route": "/docs/build/type-safety",
   "sec": "build",
@@ -448,6 +512,7 @@
   "title": "Type Safety"
  },
  {
+  "src": "./guide/typed-fetch.md",
   "void": "/guide/typed-fetch",
   "route": "/docs/build/typed-fetch",
   "sec": "build",
@@ -455,6 +520,7 @@
   "title": "Typed Fetch"
  },
  {
+  "src": "./guide/websockets.md",
   "void": "/guide/websockets",
   "route": "/docs/build/websockets",
   "sec": "build",
@@ -462,6 +528,7 @@
   "title": "WebSockets"
  },
  {
+  "src": "./integrations/agents.md",
   "void": "/integrations/agents",
   "route": "/docs/connect/agents",
   "sec": "connect",
@@ -469,6 +536,7 @@
   "title": "Using DST with Coding Agents"
  },
  {
+  "src": "./integrations/cloudflare.md",
   "void": "/integrations/cloudflare",
   "route": "/docs/connect/cloudflare",
   "sec": "connect",
@@ -476,6 +544,7 @@
   "title": "Cloudflare"
  },
  {
+  "src": "./integrations/frameworks/analog.md",
   "void": "/integrations/frameworks/analog",
   "route": "/docs/connect/frameworks/analog",
   "sec": "connect",
@@ -483,6 +552,7 @@
   "title": "Analog"
  },
  {
+  "src": "./integrations/frameworks/astro.md",
   "void": "/integrations/frameworks/astro",
   "route": "/docs/connect/frameworks/astro",
   "sec": "connect",
@@ -490,6 +560,7 @@
   "title": "Astro"
  },
  {
+  "src": "./integrations/frameworks/nuxt.md",
   "void": "/integrations/frameworks/nuxt",
   "route": "/docs/connect/frameworks/nuxt",
   "sec": "connect",
@@ -497,6 +568,7 @@
   "title": "Nuxt"
  },
  {
+  "src": "./integrations/frameworks/overview.md",
   "void": "/integrations/frameworks/overview",
   "route": "/docs/connect/frameworks/overview",
   "sec": "connect",
@@ -504,6 +576,7 @@
   "title": "Meta-Frameworks"
  },
  {
+  "src": "./integrations/frameworks/react-router.md",
   "void": "/integrations/frameworks/react-router",
   "route": "/docs/connect/frameworks/react-router",
   "sec": "connect",
@@ -511,6 +584,7 @@
   "title": "React Router v7"
  },
  {
+  "src": "./integrations/frameworks/sveltekit.md",
   "void": "/integrations/frameworks/sveltekit",
   "route": "/docs/connect/frameworks/sveltekit",
   "sec": "connect",
@@ -518,6 +592,7 @@
   "title": "SvelteKit"
  },
  {
+  "src": "./integrations/frameworks/tanstack-start.md",
   "void": "/integrations/frameworks/tanstack-start",
   "route": "/docs/connect/frameworks/tanstack-start",
   "sec": "connect",
@@ -525,6 +600,7 @@
   "title": "TanStack Start"
  },
  {
+  "src": "./integrations/hono.md",
   "void": "/integrations/hono",
   "route": "/docs/connect/hono",
   "sec": "connect",
@@ -532,6 +608,7 @@
   "title": "Hono"
  },
  {
+  "src": "./integrations/nodejs-bun-deno.md",
   "void": "/integrations/nodejs-bun-deno",
   "route": "/docs/connect/nodejs-bun-deno",
   "sec": "connect",
@@ -539,6 +616,7 @@
   "title": "Node.js, Bun, and Deno"
  },
  {
+  "src": "./reference/api.md",
   "void": "/reference/api",
   "route": "/docs/api/overview",
   "sec": "api",
@@ -546,6 +624,7 @@
   "title": "API Reference"
  },
  {
+  "src": "./reference/api/auth.md",
   "void": "/reference/api/auth",
   "route": "/docs/api/auth",
   "sec": "api",
@@ -553,6 +632,7 @@
   "title": "Authentication"
  },
  {
+  "src": "./reference/api/client.md",
   "void": "/reference/api/client",
   "route": "/docs/api/client",
   "sec": "api",
@@ -560,6 +640,7 @@
   "title": "Fetch Client"
  },
  {
+  "src": "./reference/api/database.md",
   "void": "/reference/api/database",
   "route": "/docs/api/database",
   "sec": "api",
@@ -567,6 +648,7 @@
   "title": "Database and Seeding"
  },
  {
+  "src": "./reference/api/deploy.md",
   "void": "/reference/api/deploy",
   "route": "/docs/api/deploy",
   "sec": "api",
@@ -574,6 +656,7 @@
   "title": "Deployment artifacts"
  },
  {
+  "src": "./reference/api/durable.md",
   "void": "/reference/api/durable",
   "route": "/docs/api/durable",
   "sec": "api",
@@ -581,6 +664,7 @@
   "title": "Durable State and WebSockets"
  },
  {
+  "src": "./reference/api/env.md",
   "void": "/reference/api/env",
   "route": "/docs/api/env",
   "sec": "api",
@@ -588,6 +672,7 @@
   "title": "Environment Variables"
  },
  {
+  "src": "./reference/api/handlers.md",
   "void": "/reference/api/handlers",
   "route": "/docs/api/handlers",
   "sec": "api",
@@ -595,6 +680,7 @@
   "title": "Handlers and Middleware"
  },
  {
+  "src": "./reference/api/pages.md",
   "void": "/reference/api/pages",
   "route": "/docs/api/pages",
   "sec": "api",
@@ -602,6 +688,7 @@
   "title": "Pages Adapters"
  },
  {
+  "src": "./reference/api/plugin.md",
   "void": "/reference/api/plugin",
   "route": "/docs/api/plugin",
   "sec": "api",
@@ -609,6 +696,7 @@
   "title": "Plugin and Configuration"
  },
  {
+  "src": "./reference/api/resources.md",
   "void": "/reference/api/resources",
   "route": "/docs/api/resources",
   "sec": "api",
@@ -616,6 +704,7 @@
   "title": "Resource Clients"
  },
  {
+  "src": "./reference/api/rewrites.md",
   "void": "/reference/api/rewrites",
   "route": "/docs/api/rewrites",
   "sec": "api",
@@ -623,6 +712,7 @@
   "title": "Rewrites"
  },
  {
+  "src": "./reference/api/types.md",
   "void": "/reference/api/types",
   "route": "/docs/api/types",
   "sec": "api",
@@ -630,6 +720,7 @@
   "title": "Types"
  },
  {
+  "src": "./reference/cli.md",
   "void": "/reference/cli",
   "route": "/docs/cli/overview",
   "sec": "cli",
@@ -637,6 +728,7 @@
   "title": "CLI Reference"
  },
  {
+  "src": "./reference/cli/auth.md",
   "void": "/reference/cli/auth",
   "route": "/docs/cli/auth",
   "sec": "cli",
@@ -644,6 +736,7 @@
   "title": "Connections and Authentication"
  },
  {
+  "src": "./reference/cli/database.md",
   "void": "/reference/cli/database",
   "route": "/docs/cli/database",
   "sec": "cli",
@@ -651,6 +744,7 @@
   "title": "Database"
  },
  {
+  "src": "./reference/cli/deploy.md",
   "void": "/reference/cli/deploy",
   "route": "/docs/cli/deploy",
   "sec": "cli",
@@ -658,6 +752,7 @@
   "title": "Deployment"
  },
  {
+  "src": "./reference/cli/domains.md",
   "void": "/reference/cli/domains",
   "route": "/docs/cli/domains",
   "sec": "cli",
@@ -665,6 +760,7 @@
   "title": "Custom Domains"
  },
  {
+  "src": "./reference/cli/email.md",
   "void": "/reference/cli/email",
   "route": "/docs/cli/email",
   "sec": "cli",
@@ -672,6 +768,7 @@
   "title": "Email"
  },
  {
+  "src": "./reference/cli/generate.md",
   "void": "/reference/cli/generate",
   "route": "/docs/cli/generate",
   "sec": "cli",
@@ -679,6 +776,7 @@
   "title": "Code Generation"
  },
  {
+  "src": "./reference/cli/github.md",
   "void": "/reference/cli/github",
   "route": "/docs/cli/github",
   "sec": "cli",
@@ -686,6 +784,7 @@
   "title": "GitHub and Builds"
  },
  {
+  "src": "./reference/cli/platform-config.md",
   "void": "/reference/cli/platform-config",
   "route": "/docs/cli/platform-config",
   "sec": "cli",
@@ -693,6 +792,7 @@
   "title": "Platform Configuration"
  },
  {
+  "src": "./reference/cli/platform-email.md",
   "void": "/reference/cli/platform-email",
   "route": "/docs/cli/platform-email",
   "sec": "cli",
@@ -700,6 +800,7 @@
   "title": "Platform Email"
  },
  {
+  "src": "./reference/cli/platform-installation.md",
   "void": "/reference/cli/platform-installation",
   "route": "/docs/cli/platform-installation",
   "sec": "cli",
@@ -707,6 +808,7 @@
   "title": "Platform Installation"
  },
  {
+  "src": "./reference/cli/platform-operations.md",
   "void": "/reference/cli/platform-operations",
   "route": "/docs/cli/platform-operations",
   "sec": "cli",
@@ -714,6 +816,7 @@
   "title": "Platform Operations"
  },
  {
+  "src": "./reference/cli/platform-users.md",
   "void": "/reference/cli/platform-users",
   "route": "/docs/cli/platform-users",
   "sec": "cli",
@@ -721,6 +824,7 @@
   "title": "Platform Users and Projects"
  },
  {
+  "src": "./reference/cli/platform-zero-trust.md",
   "void": "/reference/cli/platform-zero-trust",
   "route": "/docs/cli/platform-zero-trust",
   "sec": "cli",
@@ -728,6 +832,7 @@
   "title": "Project Zero Trust"
  },
  {
+  "src": "./reference/cli/platform.md",
   "void": "/reference/cli/platform",
   "route": "/docs/cli/platform",
   "sec": "cli",
@@ -735,6 +840,7 @@
   "title": "Platform Management"
  },
  {
+  "src": "./reference/cli/project.md",
   "void": "/reference/cli/project",
   "route": "/docs/cli/project",
   "sec": "cli",
@@ -742,6 +848,7 @@
   "title": "Projects"
  },
  {
+  "src": "./reference/cli/secrets.md",
   "void": "/reference/cli/secrets",
   "route": "/docs/cli/secrets",
   "sec": "cli",
@@ -749,6 +856,7 @@
   "title": "Secrets and Environment"
  },
  {
+  "src": "./reference/cli/setup.md",
   "void": "/reference/cli/setup",
   "route": "/docs/cli/setup",
   "sec": "cli",
@@ -756,6 +864,7 @@
   "title": "Project Setup"
  },
  {
+  "src": "./reference/config.md",
   "void": "/reference/config",
   "route": "/docs/ref/config",
   "sec": "ref",
@@ -763,6 +872,7 @@
   "title": "Config"
  },
  {
+  "src": "./reference/resource-inference.md",
   "void": "/reference/resource-inference",
   "route": "/docs/ref/resource-inference",
   "sec": "ref",
@@ -770,6 +880,7 @@
   "title": "Resource Inference"
  },
  {
+  "src": "./reference/structure.md",
   "void": "/reference/structure",
   "route": "/docs/ref/structure",
   "sec": "ref",
