@@ -1,0 +1,6 @@
+{
+  // No account_id or secrets here on purpose. Deploy with `wrangler login` or CLOUDFLARE_API_TOKEN in your shell.
+  "name": "agents-sdk-space",
+  "compatibility_date": "2026-10-01",
+  "assets": { "directory": "./dist", "not_found_handling": "404-page", "html_handling": "auto-trailing-slash" }
+}
